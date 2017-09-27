@@ -14,3 +14,8 @@ When you have a set of items each is defined by a group of attributes or specifi
 ## Related Links:
 * [Development Simply Put Blog Post](http://developmentsimplyput.blogspot.com.eg/2013/08/possibilities-cube-library-library.html)
 * [Related Project: Application To Generate Combined Images Of All Image-Categories Possible Combinations](https://github.com/AhmedTarekHasan/ImagesCategoriesCombinationsGenerator)
+
+<br/>
+
+## Authors:
+* [Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
